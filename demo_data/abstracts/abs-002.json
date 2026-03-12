@@ -1,0 +1,8 @@
+{
+  "id": "abs-002",
+  "title": "TNF-alpha and NF-kB Crosstalk in Drug-Resistant Breast Cancer",
+  "text": "Tumor necrosis factor alpha activates NF-kB signaling, which contributes to drug resistance in breast cancer cells. We observed that TNF-alpha-treated cells exhibit increased expression of multidrug resistance pumps and anti-apoptotic proteins. However, our findings conflict with earlier reports that TNF-alpha sensitizes tumor cells to chemotherapy. This inconsistency may be explained by differences in tumor microenvironment context. Future work should clarify the conditions under which TNF-alpha promotes versus inhibits drug resistance.",
+  "authors": ["Alvarez M", "Liu W", "Okonkwo J"],
+  "year": 2024,
+  "topics": ["cytokines", "drug resistance", "tumor microenvironment", "inflammation", "NF-kB"]
+}

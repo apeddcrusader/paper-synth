@@ -1,0 +1,8 @@
+{
+  "id": "abs-003",
+  "title": "Macrophage Polarization and Cytokine Networks in Solid Tumors",
+  "text": "Tumor-associated macrophages adopt an M2-like phenotype that suppresses anti-tumor immunity. We profiled the cytokine milieu of solid tumors and found that IL-10, TGF-beta, and IL-6 dominate the immunosuppressive landscape. Reprogramming macrophages toward an M1 phenotype restored immune response and slowed tumor growth. These observations are consistent with the emerging consensus that macrophage polarization is a key determinant of outcomes in the tumor microenvironment. The role of metabolic reprogramming in macrophage polarization remains unclear and needs investigation.",
+  "authors": ["Kim S", "Patel R", "Johansson L"],
+  "year": 2023,
+  "topics": ["immune response", "cytokines", "tumor microenvironment", "macrophages", "inflammation"]
+}

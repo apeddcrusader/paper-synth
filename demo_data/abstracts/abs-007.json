@@ -1,0 +1,8 @@
+{
+  "id": "abs-007",
+  "title": "Regulatory T Cells and Immune Suppression in the Tumor Microenvironment",
+  "text": "Regulatory T cells accumulate in the tumor microenvironment where they suppress effector immune response and promote tumor immune evasion. We show that Treg depletion enhances the efficacy of anti-PD-1 therapy in preclinical models. However, systemic Treg depletion causes severe autoimmunity, highlighting the need for tumor-selective approaches. The interplay between Treg recruitment and cytokine gradients such as CCL22 and TGF-beta remains poorly understood. Selective Treg modulation in the tumor microenvironment warrants further investigation.",
+  "authors": ["Santos F", "Johansson L", "Alvarez M"],
+  "year": 2024,
+  "topics": ["immune response", "tumor microenvironment", "inflammation", "regulatory T cells"]
+}

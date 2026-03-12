@@ -1,0 +1,8 @@
+{
+  "id": "abs-006",
+  "title": "Extracellular Vesicles as Mediators of Drug Resistance Transfer",
+  "text": "Extracellular vesicles shed by drug-resistant tumor cells can transfer resistance phenotypes to sensitive neighbors. We demonstrate that vesicles carry functional multidrug resistance proteins and regulatory microRNAs that reprogram recipient cell signaling. This mechanism of horizontal resistance transfer has not yet been fully characterized in the context of the tumor microenvironment. Our results conflict with models that treat drug resistance as a purely cell-autonomous trait. Understanding vesicle-mediated resistance is critical for designing next-generation combination therapies.",
+  "authors": ["Okonkwo J", "Kim S", "Liu W"],
+  "year": 2024,
+  "topics": ["drug resistance", "tumor microenvironment", "extracellular vesicles"]
+}

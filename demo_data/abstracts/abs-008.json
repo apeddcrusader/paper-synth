@@ -1,0 +1,8 @@
+{
+  "id": "abs-008",
+  "title": "Metabolic Reprogramming and Inflammatory Signaling in Cancer",
+  "text": "Cancer cells undergo metabolic reprogramming that alters the inflammatory landscape of the tumor microenvironment. We report that aerobic glycolysis in tumor cells elevates lactate levels, which in turn suppresses cytokine production by infiltrating immune cells. Conversely, fatty acid oxidation in immune cells enhances their anti-tumor activity. These metabolic-immune interactions are not yet fully mapped and represent a major knowledge gap. Targeting tumor metabolism to restore immune response could complement existing immunotherapy strategies. Further research should integrate metabolomics with single-cell immune profiling.",
+  "authors": ["Gupta A", "Rossi E", "Patel R"],
+  "year": 2024,
+  "topics": ["inflammation", "immune response", "tumor microenvironment", "cytokines", "metabolism"]
+}

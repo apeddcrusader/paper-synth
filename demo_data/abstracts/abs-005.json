@@ -1,0 +1,8 @@
+{
+  "id": "abs-005",
+  "title": "Cytokine Storm and Organ Damage in Severe Viral Infection",
+  "text": "Cytokine storms driven by excessive IL-6, TNF-alpha, and IL-1-beta release are implicated in multi-organ damage during severe viral infection. We analysed serum cytokine profiles in 340 hospitalised patients and found that peak IL-6 levels predict ICU admission with high accuracy. Unlike bacterial sepsis, viral cytokine storms show a delayed IL-10 response. Anti-inflammatory strategies targeting the IL-6 receptor reduced mortality in a subset of patients. Further studies are needed to define optimal dosing windows and identify patients most likely to benefit.",
+  "authors": ["Rossi E", "Nakamura T", "Chen Y"],
+  "year": 2023,
+  "topics": ["cytokines", "inflammation", "immune response", "IL-6", "viral infection"]
+}

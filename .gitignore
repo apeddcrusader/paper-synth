@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+.hypothesis/
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+.venv/
+.env
+demo_output/*
+!demo_output/.gitkeep

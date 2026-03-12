@@ -1,0 +1,8 @@
+{
+  "id": "abs-004",
+  "title": "Checkpoint Inhibitor Resistance Mediated by PD-L1 Upregulation",
+  "text": "Immune checkpoint inhibitors have transformed oncology, yet acquired drug resistance remains a major obstacle. We show that sustained interferon-gamma exposure drives PD-L1 upregulation on tumor cells, enabling immune evasion. In contrast to previous studies attributing resistance solely to T-cell exhaustion, our data point to a tumor-intrinsic mechanism. Combination strategies targeting both PD-L1 and the tumor microenvironment are warranted. It remains to be determined whether epigenetic modifiers can durably reverse PD-L1 overexpression.",
+  "authors": ["Gupta A", "Chen Y", "Santos F"],
+  "year": 2024,
+  "topics": ["drug resistance", "immune response", "tumor microenvironment", "checkpoint inhibitors"]
+}

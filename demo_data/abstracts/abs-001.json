@@ -1,0 +1,8 @@
+{
+  "id": "abs-001",
+  "title": "IL-6 Signaling in Chronic Inflammation and Tumor Progression",
+  "text": "Interleukin-6 is a pleiotropic cytokine that plays a central role in chronic inflammation and tumor progression. Elevated IL-6 levels in the tumor microenvironment promote STAT3 activation, leading to enhanced cancer cell proliferation and immune evasion. Our results demonstrate that IL-6 blockade reduces tumor growth in murine models. These findings suggest that targeting the IL-6/STAT3 axis may represent a viable therapeutic strategy. Further research is needed to evaluate combination approaches with existing checkpoint inhibitors.",
+  "authors": ["Chen Y", "Nakamura T", "Patel R"],
+  "year": 2024,
+  "topics": ["inflammation", "cytokines", "tumor microenvironment", "immune response", "IL-6"]
+}
